@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INGPROCESOS
 aqui estuvo ivan 
 HOLA IT
@@ -46,3 +47,6 @@ ANDY
 =========
 aca no estuvo el master
 >>>>>>>>> Temporary merge branch 2
+=======
+cambios nuevos 
+>>>>>>> origin/master
