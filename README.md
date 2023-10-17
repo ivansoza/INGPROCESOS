@@ -1,8 +1,9 @@
 # INGPROCESOS
 aqui estuvo ivan 
-
+HOLA IT
 
 aqui estuvo blancais
+>>>>>>>>> Temporary merge branch 2
 
 
 
@@ -11,11 +12,9 @@ aqui estuvo blancais
 
 
 
+<<<<<<<<< Temporary merge branch 1
 
-ANDY
-aca no estuvo el master
-
-Buen día a todos !!!
+<<<<<<<<< Temporary merge branch 1
 
 
 
@@ -41,3 +40,9 @@ Buen día a todos !!!
 
 
 Hola :)
+=========
+ANDY
+>>>>>>>>> Temporary merge branch 2
+=========
+aca no estuvo el master
+>>>>>>>>> Temporary merge branch 2
