@@ -49,4 +49,3 @@ aca no estuvo el master
 >>>>>>>>> Temporary merge branch 2
 =======
 cambios nuevos 
->>>>>>> origin/master
